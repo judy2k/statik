@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	_ "github.com/rakyll/statik/example/statik"
-	"github.com/rakyll/statik/fs"
+	_ "github.com/judy2k/statik/example/statik"
+	"github.com/judy2k/statik/fs"
 )
 
 // Before buildling, run `statik -src=./public`
